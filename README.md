@@ -14,9 +14,9 @@ Festora is a comprehensive full-stack web application dedicated to preserving an
 - **Advanced Filtering System:** Filter festivals by religion, date, and location.  
 - **Festival Details:** Access in-depth information including key rituals, significant locations, and typical schedules.  
 - **Virtual Greeting Cards:** Create and share personalized, animated greeting cards for any festival with customizable templates and messages.
-
-<img width="1762" height="730" alt="image" src="https://github.com/user-attachments/assets/5f45f2bc-53fb-4081-bfba-198f70ec3e53" />
+  
 <img width="1890" height="747" alt="image" src="https://github.com/user-attachments/assets/7d415db3-bdc9-4246-babb-0248ee9418bd" />
+<img width="1762" height="730" alt="image" src="https://github.com/user-attachments/assets/5f45f2bc-53fb-4081-bfba-198f70ec3e53" />
 <img width="1864" height="821" alt="image" src="https://github.com/user-attachments/assets/c43e0e8d-16bd-477f-ae73-ff92fbcd9d68" />
 <img width="1836" height="815" alt="image" src="https://github.com/user-attachments/assets/94ae646f-9027-4d0c-a52c-5638a5d02573" />
 <img width="1213" height="908" alt="image" src="https://github.com/user-attachments/assets/ca670f6b-6cca-4e70-b433-39263b30c364" />
