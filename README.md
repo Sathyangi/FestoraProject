@@ -59,22 +59,20 @@ Festora is a comprehensive full-stack web application dedicated to preserving an
 
 ---
 
-## Technology Stack
+### Technology Stack
 
 ### Frontend
-- HTML5 & CSS3: Semantic markup and modern styling  
-- Responsive Design: Mobile-first approach ensuring cross-device compatibility  
-- Interactive UI: Dynamic user interactions and real-time updates  
-
+- React.js: Component-based development for building dynamic and interactive user interfaces.
+- HTML5 & CSS3: Structuring and styling web pages.
+- Bootstrap 5: Responsive layouts and mobile-friendly UI design.
+- JavaScript: Implementing interactive functionality and dynamic content.
 ### Backend
-- Server-Side Processing: Robust backend architecture  
-- Database Integration: MySQL/PostgreSQL for data persistence  
-- RESTful API: Structured API endpoints for frontend-backend communication  
-
-### Payment Integration
-- Secure Payment Gateway: PCI-compliant payment processing  
-- Multiple Payment Methods: Support for various payment options  
-- Transaction Management: Complete donation and purchase tracking
+- Laravel (PHP): Server-side application development and business logic.
+- RESTful APIs: Enabling communication between the React frontend and Laravel backend.
+- Database Integration: Managing and storing application data.
+### Development Tools
+- Composer: PHP dependency management.
+- npm: JavaScript package management.
 
 ---
 
